@@ -19,7 +19,7 @@ import torchvision.transforms as transforms
 from torch.autograd import Variable
 import conf
 from loss.loss_functions import normalize01
-from utils import get_A
+
 
 is_cuda = torch.cuda.is_available()
 Tensor = torch.cuda.FloatTensor if is_cuda else torch.FloatTensor
