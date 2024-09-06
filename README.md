@@ -1,7 +1,7 @@
 # Zero-UMSIE
 
 
-<div align=center><img src="img/1.tif" height = "60%" width = "60%"/></div>
+<div align=center><img src="img/framework.png" height = "60%" width = "60%"/></div>
 
 ## Introduction
 In this project, we use Python 3.7, Pytorch 1.13.0 and one NVIDIA RTX 3080Ti GPU. 
